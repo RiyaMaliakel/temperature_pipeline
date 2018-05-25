@@ -1,0 +1,6 @@
+flask
+pandas
+numpy
+keras
+tensorflow==1.5
+requests
